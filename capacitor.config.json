@@ -2,6 +2,5 @@
   "appId": "io.ionic.starter",
   "appName": "testApp4React",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build"
+  "npmClient": "npm"
 }
