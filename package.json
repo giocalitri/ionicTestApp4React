@@ -38,7 +38,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@capacitor/cli": "1.1.0"
+    "@capacitor/cli": "5.0.1"
   },
   "description": "An Ionic project"
 }
